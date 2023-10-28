@@ -1,0 +1,15 @@
+h1{background-color: aquamarine;
+text-align: center;}
+h2{color: dodgerblue; }
+
+h3{color: darkturquoise;}
+
+p{font-size: 18px;
+font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+width: 55%;}
+
+body{background-color:rgb(240, 255, 251) ;}
+
+.pictores{display: flex;}
+.pic{display: inline;
+margin: 10px;}
